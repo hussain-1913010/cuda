@@ -1,0 +1,7 @@
+@font-face{
+	font-family:"TitilliumWeb";
+	src:url("../fonts/TitilliumWeb.eot") format("eot"),
+	url("../fonts/TitilliumWeb.woff") format("woff"),
+	url("../fonts/TitilliumWeb.ttf") format("truetype"),
+	url("../fonts/TitilliumWeb.svg#TitilliumWeb") format("svg");
+}
